@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+}
+.image of mine{
+    position: absolute  ;
+    padding: 20px;
+    padding-top: 100px;
+}
+.top-container{
+  background-color: #EAF6F6;
+  padding: 20px;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #EAF6F6;
+font-family: 'Merriweather', serif;
+}
+.buttom-container{
+  background-color: #EAF6F6;
+font-family: 'Merriweather', serif;
+}
+.top-cloud{
+  position: absolute  ;
+  right: 300px;
+  top: 50px;
+}
+.buttom-cloud{
+  position: absolute  ;
+  left: 300px;
+  buttom:300px;
+}
+.contact-detail
+{
+  background-color: #EAF6F6;
+font-family: 'Merriweather', serif;
+text-align: left;;
+}
